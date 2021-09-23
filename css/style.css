@@ -1,0 +1,18 @@
+* {
+    padding: 0;
+    margin: 0;
+    z-index: 1;
+}
+
+body {
+}
+
+img.thumb {
+    filter: blur(3px);
+    width: 100%;
+    z-index: -1;
+}
+
+::-webkit-scrollbar {
+    width: 0px;
+}
