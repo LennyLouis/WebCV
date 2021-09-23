@@ -9,5 +9,8 @@ new fullpage('#fullpage', {
     },
 });
 
+document.getElementById("img").style.height = document.getElementById("html").offsetHeight+500;
+
+
 // var image = document.getElementsByClassName('thumb');
 // new simpleParallax(image);

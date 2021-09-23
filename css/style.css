@@ -7,6 +7,11 @@
     --font-heading: 'Playfair Display', serif;
 }
 
+* {
+    padding: 0;
+    margin: 0;
+}
+
 @media (prefers-reduced-motion) {
     :root {
         --scale: 0;
